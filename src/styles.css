@@ -10,8 +10,8 @@ body{
 }
 
 .image-area {
-    max-width: 40%;
-    max-height: 40%;
+    max-width: 40vw;
+    max-height: 40vh;
     border: black solid 1px;
     display: "inline-block";
     margin-right: 10px;
@@ -51,5 +51,8 @@ th {
     margin-left: 100px;
 }
 
+.image-title-block{
+    display: inline-block;
+}
 
 
