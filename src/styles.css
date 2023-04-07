@@ -1,0 +1,58 @@
+body{
+    margin-left: 20px;
+}
+.image-area-sized {
+    width: 200px;
+    height: 200px;
+    border: black solid 1px;
+    display: "inline-block";
+    margin-right: 10px;
+}
+
+.image-area {
+    max-width: 40vw;
+    max-height: 40vh;
+    border: black solid 1px;
+    display: "inline-block";
+    margin-right: 10px;
+}
+
+input[type="file"]  {
+    display: block ;
+}
+
+th {
+    width: 16px;
+    height: 16px;
+    border: black solid 1px;
+    background-color: rgb(10, 72, 39);
+}
+
+.margin-bottom-area{
+    margin-bottom: 20px;
+}
+
+.button-in-line{
+    margin-left: 10px;
+}
+
+.error-message{
+    color: crimson;
+    visibility: collapse;
+}
+
+.filters-area{
+    display: inline-block;
+    vertical-align: top;
+    
+}
+
+.filters-area-margin{
+    margin-left: 100px;
+}
+
+.image-title-block{
+    display: inline-block;
+}
+
+
